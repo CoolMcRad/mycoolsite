@@ -23,11 +23,11 @@ h2 {
 b {
     text-transform: capitalize;
     font-variant: small-caps;
-    color: green;
+    color: rgb(0, 163, 0);
 }
 
 em {
-    color: rgb(167, 170, 0);
+    color: rgb(187, 190, 0);
     text-decoration: underline;
 }
 
