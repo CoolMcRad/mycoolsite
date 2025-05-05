@@ -1,0 +1,56 @@
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: rgb(233, 233, 233);
+    line-height: 1.5;
+    padding: 4em 1em;
+    margin: 0 auto;
+    max-width: 50vw;
+    background-color: darkslategray;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-variant: small-caps;
+}
+
+h2 {
+    text-transform: capitalize;
+    font-variant: small-caps;
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+b {
+    text-transform: capitalize;
+    font-variant: small-caps;
+    color: green;
+}
+
+em {
+    color: rgb(167, 170, 0);
+    text-decoration: underline;
+}
+
+.container-1 {
+    position: absolute;
+    top: 0vh;
+    right: 0vw;
+    padding: 0%;
+    margin: 0%;
+    width: 20vw;
+    height: 1000px;
+    background-color: rgb(2, 19, 0);
+    background-image: url('assets/hamdance.gif');
+}
+
+.container-2 {
+    position: absolute;
+    top: 0vh;
+    left: 0vw;
+    padding: 0%;
+    margin: 0%;
+    width: 20vw;
+    height: 1000px;
+    background-color: rgb(2, 19, 0);
+    background-image: url('assets/hamdance.gif');
+}
